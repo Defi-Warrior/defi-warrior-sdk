@@ -1,0 +1,48 @@
+{
+    "name": "PancakeSwap Top 100",
+    "timestamp": "2021-07-12T03:09:13.797Z",
+    "version": {
+      "major": 2,
+      "minor": 16,
+      "patch": 1
+    },
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "keywords": [
+      "pancakeswap",
+      "top 100"
+    ],
+    "tokens": [
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "address": "0xF9148233A42787147Cab2690B90ea962Adc22126",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059ff775485246999027b3197955.png"
+      },
+      {
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "address": "0x26C84EAeC7735a3B263bde1368f586791DBB978A",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+      },
+      {
+        "name": "FIWA",
+        "symbol": "FIWA",
+        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://i.imgur.com/OaTTKWs.png"
+      },
+      {
+        "name": "GEM Token",
+        "symbol": "GEM",
+        "address": "0x12F7Ce8D7dF055c97d6d1956C952Ee28CF456f97",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+      }
+    ]
+  }
