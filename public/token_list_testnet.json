@@ -29,12 +29,60 @@
         "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
       },
       {
-        "name": "FIWA",
+        "name": "Defi Warrior",
         "symbol": "FIWA",
         "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
         "chainId": 97,
         "decimals": 18,
         "logoURI": "https://i.imgur.com/OaTTKWs.png"
+      },
+      {
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/bch.png"
+      },
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/btc.png"
+      },
+      {
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/ltc.png"
+      },
+      {
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/bnb.png"
+      },
+      {
+        "name": "Uniswap",
+        "symbol": "Uni",
+        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/uni.png"
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/eth.png"
       }
     ]
   }
