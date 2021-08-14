@@ -1,5 +1,5 @@
 {
-    "name": "PancakeSwap Top 100",
+    "name": "Defi Warrior Top 100",
     "timestamp": "2021-07-12T03:09:13.797Z",
     "version": {
       "major": 2,
@@ -35,14 +35,6 @@
         "chainId": 97,
         "decimals": 18,
         "logoURI": "https://i.imgur.com/OaTTKWs.png"
-      },
-      {
-        "name": "GEM Token",
-        "symbol": "GEM",
-        "address": "0x12F7Ce8D7dF055c97d6d1956C952Ee28CF456f97",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
       }
     ]
   }
