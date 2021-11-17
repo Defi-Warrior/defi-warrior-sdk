@@ -1,88 +1,45 @@
 {
-    "name": "Defi Warrior Top 100",
-    "timestamp": "2021-08-12T03:09:13.797Z",
-    "version": {
-      "major": 2,
-      "minor": 16,
-      "patch": 2
+  "name": "Defi Warrior Top 100",
+  "timestamp": "2021-08-12T03:09:13.797Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 2
+  },
+  "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/fiwa.png",
+  "keywords": ["defiwarrior", "top 100"],
+  "tokens": [
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x7A8a839f155159d77A4735D8C02a671E535e83dB",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/usdt.png"
     },
-    "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/fiwa.png",
-    "keywords": [
-      "defiwarrior",
-      "top 100"
-    ],
-    "tokens": [
-      {
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "address": "0xF9148233A42787147Cab2690B90ea962Adc22126",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/usdt.png"
-      },
-      {
-        "name": "Binance USD",
-        "symbol": "BUSD",
-        "address": "0x26C84EAeC7735a3B263bde1368f586791DBB978A",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/busd.png"
-      },
-      {
-        "name": "Defi Warrior",
-        "symbol": "FIWA",
-        "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/fiwa.png"
-      },
-      {
-        "name": "Bitcoin Cash",
-        "symbol": "BCH",
-        "address": "0x09F8Ee19865CfefaA98aC04Da337aA25e880859d",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/bch.png"
-      },
-      {
-        "name": "Bitcoin",
-        "symbol": "BTC",
-        "address": "0x0Ae900865E46b4Cc8d12D9Ab1AA080190937e76C",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/btc.png"
-      },
-      {
-        "name": "Litecoin",
-        "symbol": "LTC",
-        "address": "0x803368A552Eb2E8A64E9d0AE9c783659ad3546aA",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/ltc.png"
-      },
-      {
-        "name": "Warpped Binance Coin",
-        "symbol": "WBNB",
-        "address": "0xC84CcED3daB99440c478787D82ccE5e402334b81",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/bnb.png"
-      },
-      {
-        "name": "Uniswap",
-        "symbol": "Uni",
-        "address": "0x98E54D23eb8D41619f1D1380C02D35430FAA4850",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/uni.png"
-      },
-      {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "address": "0x1712B7C810Aa7eA243535fdA9c737105Dc004059",
-        "chainId": 97,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/eth.png"
-      }
-    ]
-  }
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x26C84EAeC7735a3B263bde1368f586791DBB978A",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/busd.png"
+    },
+    {
+      "name": "Defi Warrior",
+      "symbol": "FIWA",
+      "address": "0x4FE16EBf09D4B0daf737c7382a424a88cD08238e",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/fiwa.png"
+    },
+    {
+      "name": "Crypto World in The Game",
+      "symbol": "CWIG",
+      "address": "0x3875402c6b03aA8dF9949fDED753Fa3f995a63B9",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Defi-Warrior/defi-warrior-sdk/master/public/icons/cwig.svg"
+    }
+  ]
+}
